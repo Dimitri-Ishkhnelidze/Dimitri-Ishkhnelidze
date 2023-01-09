@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **contact.mail184@gmail.com**
 
-- 📝 Resume : **file:///C:/Users/User/Desktop/Profile%20(2).pdf**
+- 📝 Resume : **https://drive.google.com/file/d/1LqfMQJkJVsrVcGsJvT5nUQDdlUuC7jJT/view?usp=share_link**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
