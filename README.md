@@ -6,13 +6,11 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
-- 👨‍💻 All of my projects are available at [file:///C:/Users/User/Desktop/Profile.pdf](file:///C:/Users/User/Desktop/Profile.pdf)
-
 - 📫 How to reach me **contact.mail184@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/იშხნე ლი" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="იშხნე ლი" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/D.ishkhneli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="იშხნე ლი" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
