@@ -8,6 +8,8 @@
 
 - 📫 How to reach me **contact.mail184@gmail.com**
 
+- 📝 Resume : **file:///C:/Users/User/Desktop/Profile%20(2).pdf**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/D.ishkhneli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="იშხნე ლი" height="30" width="40" /></a>
