@@ -1,4 +1,4 @@
-[![MasterHead](https://imgs.search.brave.com/8Ryk0aNEFHZsnHVwvU0utXbsEQfvLvBXmQPMzY53JPc/rs:fit:1200:267:1/g:ce/aHR0cHM6Ly9taXIt/czMtY2RuLWNmLmJl/aGFuY2UubmV0L3By/b2plY3RfbW9kdWxl/cy9tYXhfMTIwMC83/OTczMTU2ODA5NzU5/OS41YjUwYmNhNDc3/NzM1LmpwZw)]
+![MasterHead](https://imgs.search.brave.com/8Ryk0aNEFHZsnHVwvU0utXbsEQfvLvBXmQPMzY53JPc/rs:fit:1200:267:1/g:ce/aHR0cHM6Ly9taXIt/czMtY2RuLWNmLmJl/aGFuY2UubmV0L3By/b2plY3RfbW9kdWxl/cy9tYXhfMTIwMC83/OTczMTU2ODA5NzU5/OS41YjUwYmNhNDc3/NzM1LmpwZw)
 <h1 align="center">Hi 👋, I'm Dimitri</h1>
 <h3 align="center">A passionate frontend developer from Georgia</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
